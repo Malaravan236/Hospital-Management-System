@@ -1,0 +1,9 @@
+1. first page la background image aha blur aha panren so athu ku body tag kulla div tag kulla background use panren
+
+2. Nav bar:
+   +----------------------------------------------------------------------------------+
+| 🏥 City Care Hospital | Home | Doctors | Departments | Contact | Logout 👤 |
++----------------------------------------------------------------------------------+
+
+
+
